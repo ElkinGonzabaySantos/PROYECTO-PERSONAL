@@ -39,6 +39,7 @@ frases = [
     "En tus brazos encuentro el refugio perfecto, el lugar donde puedo ser completamente yo mismo.",
     "Tú haces que cada día valga la pena vivirlo, cada momento digno de ser recordado.",
     "YO TE AMO MA Y PUNTO ",
+    "MUUUUUUUUUUAAAAAACK   un besito para cuando no pueda darte ",
     "Te amo no solo por lo que eres, sino por lo que soy cuando estoy contigo, porque a tu lado soy la mejor versión de mí mismo."
 ]
 

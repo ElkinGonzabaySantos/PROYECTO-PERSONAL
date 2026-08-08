@@ -40,7 +40,8 @@ frases = [
     "Tú haces que cada día valga la pena vivirlo, cada momento digno de ser recordado.",
     "YO TE AMO MA Y PUNTO ",
     "MUUUUUUUUUUAAAAAACK   un besito para cuando no pueda darte ",
-    "Te amo no solo por lo que eres, sino por lo que soy cuando estoy contigo, porque a tu lado soy la mejor versión de mí mismo."
+    "Te amo no solo por lo que eres, sino por lo que soy cuando estoy contigo, porque a tu lado soy la mejor versión de mí mismo.",
+    "Holis amor se q enante no pude decirte todo lo que sentia el verte sosteniendo el ramito el verte feliz por que todo tu esfuerzo valio la pena, amor sin rodeos FELICIDADES eres ahora y sera una gran licenciada todo lo que te sigas proponiendo se cumpla por que tu puedes eso y mas , te amo mi vida sigue siendo tu la mejor del mundo   TE AMO"
 ]
 
 @app.route('/', methods=['GET', 'POST'])
